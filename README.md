@@ -4,10 +4,14 @@
 <h4 data-importer="text" align="left">Sou Estudante e Desenvolvedor de software com foco principal em Backend, apaixonado por arquitetura limpa, código escalável e resolução de problemas complexos. Também me aventuro no universo mobile construindo aplicações com Flutter.<br><br>💻 O que estou fazendo no momento:<br>- 🚀 Atuando e me aprofundando em desenvolvimento Backend<br>- 📱 Desenvolvendo projetos reais em Java & Spring Boot / Python & Django.<br>- 🎓 Cursando Bacharelado em Ciência da Computação<br><br>🛠️ Tecnologias & Ferramentas:<br>- Linguagens: Java, Python, TypeScript, Dart, SQL<br>- Frameworks & Libs: Spring Boot, Django, Node.js, Flutter<br>- Banco de Dados & Ferramentas: PostgreSQL, MySQL, Git, GitHub, Docker</h4>
 
 
+
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelpr04&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br&hide_border=true" height="152" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpr04&layout=compact&card_width=320&langs_count=5&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="languages graph" />
+  <!-- Card Geral de Estatísticas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelpr04&theme=dracula" height="152" alt="stats graph" />
+  <!-- Card de Linguagens Mais Usadas -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelpr04&theme=dracula" height="152" alt="languages graph" />
 </div>
+
 
 
 <div data-importer="techs" align="center">
@@ -42,7 +46,9 @@
 
 <br clear="both">
 
+
 <img data-importer="image" align="right" height="148" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2Mzk4dzh0MWx1OTdtM3Bsc2R4a215YzN4N245amZucjM4eTVheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
 
 
 <div data-importer="socials" align="center">
@@ -56,6 +62,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 
 
 <br clear="both">
