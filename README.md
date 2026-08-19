@@ -67,6 +67,12 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/rafaelpr04/rafaelpr04/snake-output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelpr04/rafaelpr04/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelpr04/rafaelpr04/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/rafaelpr04/rafaelpr04/output/github-snake.svg">
+  </picture>
+</p>
 
 ###
