@@ -47,7 +47,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="right" height="148" src="https://imgflip.com/gif/az5gpj"  />
+<img data-importer="image" align="right" height="148" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2Mzk4dzh0MWx1OTdtM3Bsc2R4a215YzN4N245amZucjM4eTVheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
