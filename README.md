@@ -5,12 +5,16 @@
 
 
 
+
+
 <div data-importer="stats" align="center">
   <!-- Card Geral de Estatísticas -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelpr04&theme=dracula" height="152" alt="stats graph" />
   <!-- Card de Linguagens Mais Usadas -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafaelpr04&theme=dracula" height="152" alt="languages graph" />
 </div>
+
+
 
 
 
@@ -44,10 +48,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
 </div>
 
+
+
 <br clear="both">
 
 
 <img data-importer="image" align="right" height="148" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZ2Mzk4dzh0MWx1OTdtM3Bsc2R4a215YzN4N245amZucjM4eTVheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+
 
 
 
@@ -62,6 +70,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+
 
 
 
